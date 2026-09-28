@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vitrine",
+      "hasCanvas": false,
+      "bodyTextLen": 806,
+      "bodyTextHash": "f36940c8c4d502959f491cfa35f23b58f6687d10f03712648c524614af5cff6f",
+      "bodyTextPrefix": "Vitrine Link Google Sheet WINDOW SHOP. KEEP. BUY LATER. A privat",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vitrine",
+      "hasCanvas": false,
+      "bodyTextLen": 794,
+      "bodyTextHash": "7adcda356777a8c729a95aec43d5e31a3bb94b95fb00dc71e945c49cb4177763",
+      "bodyTextPrefix": "Vitrine Sheet WINDOW SHOP. KEEP. BUY LATER. A private shop windo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
